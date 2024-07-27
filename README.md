@@ -19,6 +19,5 @@ Store Annual Report
 
 
 
+![Screenshot (101)](https://github.com/user-attachments/assets/25e0a605-528a-4882-a04d-c98fec1807fb)
 
-
-![Dashboard](https://github.com/user-attachments/assets/321ddfe0-9211-4a2f-ac12-edce55d4fb28)
